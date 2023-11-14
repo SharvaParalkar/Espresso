@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "name": "EspressoBoard",
+      "maintainer": "SharvaParalkar",
+      "websiteURL": "https://github.com/SharvaParalkar/Espresso",
       "email": "hristo@espressif.com",
       "help": {
         "online": "http://esp32.com"
@@ -22,18 +22,11 @@
             "online": ""
           },
           "boards": [
-            {
-              "name": "ESP32 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
+            
             {
               "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "ESP32-C3 Dev Board"
             }
+            
           ],
           "toolsDependencies": [
             {
